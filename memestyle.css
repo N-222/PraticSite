@@ -1,0 +1,13 @@
+
+body{background-color: grey;}
+.text-white{color: white ;
+font-family: 'Minecraftia',sans-serif;}
+
+h1{color: white ;
+font-family: 'Minecraftia', sans-serif;}
+
+.line{padding-top: 40px;}
+
+  @font-face {
+  font-family: 'Minecraftia';
+  src: url('Minecraftia.ttf') format('truetype');}
