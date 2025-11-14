@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(199, 255, 236);}
+
+div{margin: 80px;}
+
+
+.fora{text-align: center;}
+
+
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+thead {
+  background-color: #87ffff;
+}
+
+thead th {
+  padding: 12px; 
+  text-align: left; 
+  border: 2px solid #000000; 
+  font-weight: bold; 
+}
+
+/* Стили для тела таблицы */
+tbody td {
+  padding: 12px;
+  border: 2px solid #000000;
+}
+
+/* Стили для строк таблицы (чередование цветов) */
+tbody tr:nth-child(even) {
+  background-color: #d5fffc; /* Светлое чередование */
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #c4fffc; /* Белый фон */
+}
+
+
+
+
+
+
+

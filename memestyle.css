@@ -1,10 +1,12 @@
 
 body{background-color: grey;}
 .text-white{color: white ;
-font-family: 'Minecraftia',sans-serif;}
+font-family: 'Minecraftia',sans-serif;
+text-align: center;}
 
 h1{color: white ;
-font-family: 'Minecraftia', sans-serif;}
+font-family: 'Minecraftia', sans-serif;
+text-align: center;}
 
 .line{padding-top: 40px;}
 
